@@ -15,3 +15,5 @@ Frequencies above 1.5 kHz were smoothed out, reducing background hiss while comp
 
 
 In the screenshot file you will be able to see figure showing the original and filtered signal, and their spectrograms
+
+I filtered out high-frequency noise and hiss above 1.5 kHz (1500 Hz) while preserving the primary audio signal. 
