@@ -58,11 +58,13 @@ Single-sided amplitude spectra demonstrate the following behavior:
 
 4. Quantitative RMSE Evaluation
 
-<img width="930" height="443" alt="image" src="https://github.com/user-attachments/assets/40663feb-eb91-479d-880d-0e0dac301c81" />
+<img width="719" height="321" alt="image" src="https://github.com/user-attachments/assets/06021d40-3491-4ed4-8b27-20c8944a3959" />
+
 
 5. Design Comparison
 
-<img width="951" height="443" alt="image" src="https://github.com/user-attachments/assets/25df1a52-2f97-4c0f-a4ac-f3243a3d64c1" />
+<img width="799" height="337" alt="image" src="https://github.com/user-attachments/assets/e92eec91-ec38-4920-8295-871ba9aeb208" />
+
 
 
 Part B: 50 Hz Audio Hum Reduction
@@ -91,7 +93,8 @@ Filtering with the 49-51 Hz notch removes this envelope, restoring clean audio b
 
 3. Notch Bandwidth Trade-Off Analysis
 
-<img width="1164" height="309" alt="image" src="https://github.com/user-attachments/assets/49364eb4-c890-4f39-b986-bda7a3428fcc" />
+<img width="939" height="369" alt="image" src="https://github.com/user-attachments/assets/5ba98ce7-03ad-40eb-b62a-52a5049f4012" />
+
 
 
 Report Questions & Answers
