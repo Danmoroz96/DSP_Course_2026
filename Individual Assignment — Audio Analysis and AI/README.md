@@ -5,7 +5,7 @@
 **Option B — Compare Noise Reduction Settings**
 
 ## Assignment Overview
-This project evaluates the performance of classical spectral gating on a noisy speech signal using two attenuation parameters (`prop_decrease = 0.5` versus `prop_decrease = 1.0`). The goal is to analyze the trade-off between total noise energy reduction and perceptual speech distortion.
+This assignment evaluates the performance of classical spectral gating on a noisy speech signal using two attenuation parameters (`prop_decrease = 0.5` versus `prop_decrease = 1.0`). The goal is to analyze the trade-off between total noise energy reduction and perceptual speech distortion.
 
 ## Audio File Inventory & Source Attribution
 * **Original Clean Speech Reference:** `data/demo/05_speech.wav` (Supplied course package audio, 16 kHz sample rate)
