@@ -1,0 +1,4 @@
+Route,Grain_Count,Mean_Area_px,Std_Area_px
+Route 1: Global Otsu (Raw),87,191.93,76.16
+Route 2: Background Correction + Otsu,93,189.1,53.92
+Route 3: Adaptive Threshold (Sensitivity 0.5),93,191.85,54.74
