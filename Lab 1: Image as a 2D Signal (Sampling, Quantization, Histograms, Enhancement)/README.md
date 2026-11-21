@@ -17,7 +17,9 @@ MATLAB exploration of fundamental 2D digital image concepts—spatial sampling, 
     └── 04_sampling_aliasing.png
 
 
-Section Results & Explanations
+
+
+## Section Results & Explanations
 0) Load and Inspect Image
 Loaded peppers.png (384 × 512 × 3, uint8) and converted it to a 2D grayscale luminance image (384 × 512, uint8, intensity range [0, 255]).
 
