@@ -98,7 +98,7 @@ The median filter completely removes salt-and-pepper impulses without smearing e
 
 5) Quantitative Comparison (MSE & SNR)
 
-
+Can be seen in screenshot
 
 Use of AI Tools
 
